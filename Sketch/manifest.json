@@ -1,0 +1,19 @@
+{
+    "name": "Sketch",
+    "label": "Sketch widget",
+    "type": "widget",
+    "version": "1.0.0",
+    "dependency": "jimu-arcgis",
+    "exbVersion": "1.0.0",
+    "author": "Arturas Sliuzevicius, HNIT",
+    "description": "Sketch widget implementation in arcgis experience builder.",
+    "license": "http://www.apache.org/licenses/LICENSE-2.0",
+    "properties": {},
+    "supportedLocales": [
+        "en"
+    ],
+    "defaultSize": {
+        "width": 370,
+        "height": 100
+    }
+}
