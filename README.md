@@ -9,6 +9,6 @@ Implementation of arcgis sketch widget in experience builder
     2. Download Sketch folder. <br>
     3. Place folder in experience builder installation location, in .\client\your-extensions\widgets.<br>
     4. Open project in Your arcgis experience builder and drag "sketch widget" into canvas along with map widget.<br>
-    5. Link widget to the map by selecting inserted sketch widget and linking it to map widget via content settings.
+    5. Link widget to the map by selecting inserted sketch widget and linking it to map widget via content settings.![image of Sketch](https://github.com/ArturasSliu/arcgis-sketch-widget/blob/main/sketchWidgetPic.PNG)
 </body>
 </html>
